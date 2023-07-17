@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I'm Raul Rebolledo
 I have years of experience working in the educational sector, but 
 in my spare time I really enjoy learning about software and web development. 
