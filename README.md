@@ -4,7 +4,6 @@ in my spare time I really enjoy learning about software and web development.
 
 Skills: SASS / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me: rrebolledo1990@gmail.com 
 
