@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**rrebolledo90/rrebolledo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Raul Rebolledo
+I have years of experience working in the educational sector, but 
+in my spare time I really enjoy learning about software and web development. 
 
-Here are some ideas to get you started:
+Skills: SASS / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Javascript 
+- 📫 How to reach me: rrebolledo1990@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rrebolledo90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raul-rebolledo-5/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrebolledo90)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rrebolledo90)  
+
